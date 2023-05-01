@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7cf670c8.css",
+    "main.js": "/react-gh-pages/static/js/main.9053bf04.js",
+    "static/js/787.04346efd.chunk.js": "/react-gh-pages/static/js/787.04346efd.chunk.js",
+    "static/media/Barcode.svg": "/react-gh-pages/static/media/Barcode.24e9fa793c567dadee3c584eaffc9762.svg",
+    "static/media/Zoom.svg": "/react-gh-pages/static/media/Zoom.3f4acd6324d20fd8dd8aec022614f21d.svg",
+    "static/media/QR.svg": "/react-gh-pages/static/media/QR.8313d48a5ce0ecd1e5d8ad13decc2ff4.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/Helix1.svg": "/react-gh-pages/static/media/Helix1.a431cdd01e1c7ab6a6c6e4adbfba537f.svg",
+    "static/media/Helix3.svg": "/react-gh-pages/static/media/Helix3.97329bb6bb367025d5720c0aa8c443c4.svg",
+    "static/media/Helix4.svg": "/react-gh-pages/static/media/Helix4.0286864f59f0298220235e7d5ecf8bd9.svg",
+    "static/media/Helix2.svg": "/react-gh-pages/static/media/Helix2.9a972b74b38b76416e16e6d7f3088fc7.svg",
+    "static/media/X.svg": "/react-gh-pages/static/media/X.3e592152fd60c28d0c2bcfed974b0496.svg",
+    "main.7cf670c8.css.map": "/react-gh-pages/static/css/main.7cf670c8.css.map",
+    "main.9053bf04.js.map": "/react-gh-pages/static/js/main.9053bf04.js.map",
+    "787.04346efd.chunk.js.map": "/react-gh-pages/static/js/787.04346efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf670c8.css",
+    "static/js/main.9053bf04.js"
+  ]
+}
