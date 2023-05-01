@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gear-Conf/static/css/main.c77e237d.css",
-    "main.js": "/Gear-Conf/static/js/main.1b9d86d5.js",
+    "main.css": "/Gear-Conf/static/css/main.b889de1b.css",
+    "main.js": "/Gear-Conf/static/js/main.66b937eb.js",
     "static/js/787.04346efd.chunk.js": "/Gear-Conf/static/js/787.04346efd.chunk.js",
     "static/media/Barcode.svg": "/Gear-Conf/static/media/Barcode.24e9fa793c567dadee3c584eaffc9762.svg",
     "static/media/Zoom.svg": "/Gear-Conf/static/media/Zoom.3f4acd6324d20fd8dd8aec022614f21d.svg",
@@ -12,12 +12,12 @@
     "static/media/Helix4.svg": "/Gear-Conf/static/media/Helix4.0286864f59f0298220235e7d5ecf8bd9.svg",
     "static/media/Helix2.svg": "/Gear-Conf/static/media/Helix2.9a972b74b38b76416e16e6d7f3088fc7.svg",
     "static/media/X.svg": "/Gear-Conf/static/media/X.3e592152fd60c28d0c2bcfed974b0496.svg",
-    "main.c77e237d.css.map": "/Gear-Conf/static/css/main.c77e237d.css.map",
-    "main.1b9d86d5.js.map": "/Gear-Conf/static/js/main.1b9d86d5.js.map",
+    "main.b889de1b.css.map": "/Gear-Conf/static/css/main.b889de1b.css.map",
+    "main.66b937eb.js.map": "/Gear-Conf/static/js/main.66b937eb.js.map",
     "787.04346efd.chunk.js.map": "/Gear-Conf/static/js/787.04346efd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c77e237d.css",
-    "static/js/main.1b9d86d5.js"
+    "static/css/main.b889de1b.css",
+    "static/js/main.66b937eb.js"
   ]
 }
